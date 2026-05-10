@@ -1,1 +1,11 @@
 Hello Git!
+New line from Ubuntu
+ПРИВЕТ!
+
+
+
+
+
+
+
+
